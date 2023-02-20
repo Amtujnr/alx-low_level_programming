@@ -13,10 +13,12 @@ int n = 65;
 while (m <= 122)
 {
 putchar(m);
+m++;
 }
 while (n <= 97)
 {
 putchar(n);
+n++;
 }
 putchar('\n');
 return (0);
