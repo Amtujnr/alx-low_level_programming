@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * _strchr -Entry point
+ * _strchr - Entry point
  * @s: input
  * @c: input
  * Return: always 0 (success)
